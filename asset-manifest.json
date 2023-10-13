@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.fd5b9af4.css",
-    "main.js": "/my-app/static/js/main.61da4e97.js",
-    "static/media/big-14.jpg": "/my-app/static/media/big-14.ae7c3159ae435d9e92d5.jpg",
-    "static/media/big-15.jpg": "/my-app/static/media/big-15.46ddf84172ec314826b1.jpg",
-    "static/media/big-01.jpg": "/my-app/static/media/big-01.409930330f8269c445e5.jpg",
-    "static/media/visual-small-11.jpg": "/my-app/static/media/visual-small-11.ba3acc424ac4608337d1.jpg",
-    "static/media/img-36.jpg": "/my-app/static/media/img-36.5900dcf10295b5edccd2.jpg",
-    "static/media/img-32.jpg": "/my-app/static/media/img-32.dc2fa85668418acbf78f.jpg",
-    "static/media/team-03.jpg": "/my-app/static/media/team-03.fc68d5dbb47ab35a35d3.jpg",
-    "static/media/img-33.jpg": "/my-app/static/media/img-33.e774f4674532bd54e8b0.jpg",
-    "static/media/img-34.jpg": "/my-app/static/media/img-34.a082d60f93433540dad2.jpg",
-    "static/media/img-37.jpg": "/my-app/static/media/img-37.d88d8088173553985911.jpg",
-    "static/media/img-35.jpg": "/my-app/static/media/img-35.2f88f1963b52f8f21dd5.jpg",
-    "static/media/team-01.jpg": "/my-app/static/media/team-01.db70c22442dac7d0193e.jpg",
-    "static/media/team-02.jpg": "/my-app/static/media/team-02.e08ccf1a42f786e33a37.jpg",
-    "static/media/logo.svg": "/my-app/static/media/logo.bc77a476f94f4e4f135250522bb685c2.svg",
-    "index.html": "/my-app/index.html",
-    "main.fd5b9af4.css.map": "/my-app/static/css/main.fd5b9af4.css.map",
-    "main.61da4e97.js.map": "/my-app/static/js/main.61da4e97.js.map"
+    "main.css": "/Roxin-React/static/css/main.d98ce7d9.css",
+    "main.js": "/Roxin-React/static/js/main.9901ffe3.js",
+    "static/media/big-14.jpg": "/Roxin-React/static/media/big-14.ae7c3159ae435d9e92d5.jpg",
+    "static/media/big-15.jpg": "/Roxin-React/static/media/big-15.46ddf84172ec314826b1.jpg",
+    "static/media/big-01.jpg": "/Roxin-React/static/media/big-01.409930330f8269c445e5.jpg",
+    "static/media/visual-small-11.jpg": "/Roxin-React/static/media/visual-small-11.ba3acc424ac4608337d1.jpg",
+    "static/media/img-36.jpg": "/Roxin-React/static/media/img-36.5900dcf10295b5edccd2.jpg",
+    "static/media/img-32.jpg": "/Roxin-React/static/media/img-32.dc2fa85668418acbf78f.jpg",
+    "static/media/team-03.jpg": "/Roxin-React/static/media/team-03.fc68d5dbb47ab35a35d3.jpg",
+    "static/media/img-33.jpg": "/Roxin-React/static/media/img-33.e774f4674532bd54e8b0.jpg",
+    "static/media/img-34.jpg": "/Roxin-React/static/media/img-34.a082d60f93433540dad2.jpg",
+    "static/media/img-37.jpg": "/Roxin-React/static/media/img-37.d88d8088173553985911.jpg",
+    "static/media/img-35.jpg": "/Roxin-React/static/media/img-35.2f88f1963b52f8f21dd5.jpg",
+    "static/media/team-01.jpg": "/Roxin-React/static/media/team-01.db70c22442dac7d0193e.jpg",
+    "static/media/team-02.jpg": "/Roxin-React/static/media/team-02.e08ccf1a42f786e33a37.jpg",
+    "static/media/logo.svg": "/Roxin-React/static/media/logo.bc77a476f94f4e4f135250522bb685c2.svg",
+    "index.html": "/Roxin-React/index.html",
+    "main.d98ce7d9.css.map": "/Roxin-React/static/css/main.d98ce7d9.css.map",
+    "main.9901ffe3.js.map": "/Roxin-React/static/js/main.9901ffe3.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd5b9af4.css",
-    "static/js/main.61da4e97.js"
+    "static/css/main.d98ce7d9.css",
+    "static/js/main.9901ffe3.js"
   ]
 }
